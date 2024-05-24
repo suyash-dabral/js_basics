@@ -31,3 +31,5 @@ console.log(1+"2")
  // Primitive: 7 : string, number,boolean, null, undefined, symbol, bigint  -> used stack
  
  //Reference ( non-primitive): array, objects, functions -> uses heap
+
+ 
